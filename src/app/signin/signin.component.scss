@@ -335,14 +335,14 @@
     min-height: 100vh;
     max-width: 100vw;
     max-height: 100vh;
-    background-color: aqua;
+    background-color: #005059;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
 .loginsignup{
-    background-color: paleturquoise;
+    background-color: #c8e8ea;
     height: 80vh;
     display: flex;
     flex-direction: row;
@@ -399,6 +399,7 @@ height: 150px;
 .phone input {
     width: 50%;
     justify-content: center;
+    background-color: #c8e8ea;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -407,29 +408,29 @@ height: 150px;
     border-radius: 20px;
 }
 
-.password p {
-    border: black thin solid;
-    font-size: 38px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    height: 150px;
-   //  width: 50%;
-   //  height:40vh;
-   }
+// .password p {
+//     border: black thin solid;
+//     font-size: 38px;
+//     text-align: center;
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: center;
+//     height: 150px;
+//    //  width: 50%;
+//    //  height:40vh;
+//    }
 
-.password input 
-{
-    width: 50%;
-    justify-content: center;
-    display: flex;
-    font-size: 25px;
-    flex-direction: column;
-    text-align: center;
-    margin-left: 24%;
-    border-radius: 20px;
-}
+// .password input 
+// {
+//     width: 50%;
+//     justify-content: center;
+//     display: flex;
+//     font-size: 25px;
+//     flex-direction: column;
+//     text-align: center;
+//     margin-left: 24%;
+//     border-radius: 20px;
+// }
 
 .signup p 
 {
