@@ -372,4 +372,95 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    font-style: normal;
+    font-size:5vh;
+    font-weight:700;
+}
+
+.info{
+    border: black thin solid;
+    height: 60vh ;
+    width:100% ;
+    display: flex;
+    padding: 9px 12px;
+}
+.phone p {
+ border: black thin solid;
+ font-size:38px;
+ text-align: center;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+height: 150px;
+//  width: 50%;
+//  height:40vh;
+}
+ 
+.phone input {
+    width: 50%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 24%;
+    font-size:25px;
+    border-radius: 20px;
+}
+
+.password p {
+    border: black thin solid;
+    font-size: 38px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 150px;
+   //  width: 50%;
+   //  height:40vh;
+   }
+
+.password input 
+{
+    width: 50%;
+    justify-content: center;
+    display: flex;
+    font-size: 25px;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 24%;
+    border-radius: 20px;
+}
+
+.signup p 
+{
+    border: black thin solid;
+    font-size: 38px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 120px;
+   //  width: 50%;
+   //  height:40vh;
+}
+.signup button
+{
+    width:9vw;
+    height:7vh;
+    justify-content: center;
+    border-radius: 10px;
+  
+}
+.login
+{
+    display: flex;
+    justify-content: center;
+    left:50px;
+}
+
+.login button {
+    width:8vw;
+    height:7vh;
+    font-size:38px;
+    border-radius: 10px;
 }
